@@ -5,7 +5,7 @@
 **Student ID:** [6631503076]  
 **App Name:** Simple Notes App  
 **Framework Used:** Flutter  
-**GitHub Repository Link:** [Insert GitHub link here]  
+**GitHub Repository Link:** [https://github.com/myo-zin-thant18/simple_notes_app]  
 **APK/IPA File Link:** [https://drive.google.com/file/d/1C18F-nuhXgtkIVN8Lzo7KY_ao7ykNGaF]
 
 ---
