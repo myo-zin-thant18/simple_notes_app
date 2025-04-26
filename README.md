@@ -96,6 +96,11 @@ Tools Used:
 
 <img width="306" alt="Screenshot 2025-04-26 at 5 55 21 PM" src="https://github.com/user-attachments/assets/b8a434c2-772c-44ce-8882-d7550de2d7cd" />
 
+#### Delete Note Screen(You can swipe to delete)
+<img width="310" alt="Screenshot 2025-04-26 at 6 01 06 PM" src="https://github.com/user-attachments/assets/b6dce886-1e98-4456-b8c6-9d144c8c34c7" />
+
+<img width="313" alt="Screenshot 2025-04-26 at 6 01 17 PM" src="https://github.com/user-attachments/assets/19b8570e-4a87-4f3b-a644-07036b1bcc58" />
+
 #### Firebase Database
 <img width="1280" alt="Screenshot 2025-04-26 at 5 50 24 PM" src="https://github.com/user-attachments/assets/bd068e73-4e54-4000-a850-5fd02bdda072" />
 
