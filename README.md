@@ -81,6 +81,18 @@ Tools Used:
 
 ### 2.3 App Screenshots
 
+<img width="313" alt="Screenshot 2025-04-26 at 5 53 14 PM" src="https://github.com/user-attachments/assets/e5edd21d-177c-4859-b03c-f5b142e3bcd6" />
+
+<img width="313" alt="Screenshot 2025-04-26 at 5 53 26 PM" src="https://github.com/user-attachments/assets/00264f5d-45fa-4f20-ad51-d7a00cfdac51" />
+
+<img width="308" alt="Screenshot 2025-04-26 at 5 54 31 PM" src="https://github.com/user-attachments/assets/2f74c255-598d-4ee4-ada6-fd9fd4fae379" />
+
+<img width="309" alt="Screenshot 2025-04-26 at 5 54 45 PM" src="https://github.com/user-attachments/assets/62c499d0-bed8-4661-9f63-596c41dc2793" />
+
+<img width="310" alt="Screenshot 2025-04-26 at 5 55 08 PM" src="https://github.com/user-attachments/assets/e40f2af5-d7c4-4603-bd6c-60ba8d06780e" />
+
+<img width="306" alt="Screenshot 2025-04-26 at 5 55 21 PM" src="https://github.com/user-attachments/assets/b8a434c2-772c-44ce-8882-d7550de2d7cd" />
+
 <img width="1280" alt="Screenshot 2025-04-26 at 5 50 24 PM" src="https://github.com/user-attachments/assets/bd068e73-4e54-4000-a850-5fd02bdda072" />
 
 
