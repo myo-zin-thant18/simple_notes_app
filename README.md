@@ -1,5 +1,5 @@
 
-# 📱 Take-home Assignment Template | Final Report
+# 📱 Take-home Assignment | Final Report
 
 **Full Name:** [Myo Zin Thant]  
 **Student ID:** [6631503076]  
