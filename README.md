@@ -81,7 +81,8 @@ Tools Used:
 
 ### 2.3 App Screenshots
 
-- (Attach or insert screenshots here, such as Home Screen, Add Note Screen, Edit Note Screen)
+<img width="1280" alt="Screenshot 2025-04-26 at 5 50 24 PM" src="https://github.com/user-attachments/assets/bd068e73-4e54-4000-a850-5fd02bdda072" />
+
 
 ---
 
